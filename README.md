@@ -5,7 +5,7 @@
 🌍 Based in **Alajo, Accra, Ghana**  
 📧 Reach me at: [cosby.developer@gmail.com](mailto:cosby.developer@gmail.com)  
 📱 WhatsApp: +233 54 458 8204  
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/godfredawusi)  
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/godfred-awusi-dev)  
 
 ---
 
