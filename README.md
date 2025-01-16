@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Godfred Awusi
 
-🎓 **BSc Computer Science, Level 300**  
+🎓 **BSc Computer Science, Level 400**  
 💼 **Founder at Cosby Technologies** | Freelance Software Engineer  
 🌍 Based in **Alajo, Accra, Ghana**  
 📧 Reach me at: [cosby.developer@gmail.com](mailto:cosby.developer@gmail.com)  
