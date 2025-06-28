@@ -43,9 +43,9 @@
 ---
 
 ## 📝 Current Projects
-- **[Cabsons Nutra Biohealth Online Shop](https://cabsonsnutrabiohealth.com)**: Building an online shop for selling bio health product.  
+- **[Zeph Impact Ltd](https://zephimpact.vercel.app)**: Building a company website for zeph Impact Ltd, a Ghana based logistics company.  
 - **[EverShield Supplies Online Shop](https://github.com/cosbyDeveloper/EverShield-Supplies)**: Building an online shop for selling all kinds of supplies.  
-- **[Smart Dustbin Project](https://github.com/cosbyDeveloper/Smart-Dustbin)**: A waste management solution integrating IoT and data analytics.
+- **[Smart Waste Management Project](https://github.com/cosbyDeveloper/Smart-Waste-Management-System)**: A waste management solution integrating IoT and data analytics.
 
 ---
 
